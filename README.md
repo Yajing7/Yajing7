@@ -52,7 +52,7 @@ Robotics
 
 ---
 
-Tech Stack
+### Tech Stack
 
 <p align="center">
   <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -67,7 +67,7 @@ Tech Stack
 
 ---
 
-GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
