@@ -14,7 +14,7 @@ Interested in **Embodied AI**, **Robot Learning**, **Vision-Language-Action Mode
 
 - 🎓 Undergraduate student at **Fudan University**
 - 🤖 Major in **Intelligent Science and Technology**
-- 🔬 Interested in **Embodied AI, VLA, World Models, Robot Learning, and Computer Vision**
+- 🔬 Research interests include **VLA, World Models, Robot Learning, and Multimodal Perception**
 - 🌱 Currently exploring learning-based robotic perception, planning, and control
 - 🧠 Interested in building robots that can **perceive, reason, learn, and interact with the physical world**
 
@@ -49,11 +49,8 @@ Robotics
 ├── Motion Planning
 ├── Sensor Fusion
 └── Robot Control
-```
 
----
-
-### Tech Stack
+Tech Stack
 
 <p align="center">
   <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -66,9 +63,7 @@ Robotics
   <img alt="LaTeX" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" />
 </p>
 
----
-
-## GitHub Stats
+GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
