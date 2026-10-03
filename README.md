@@ -1,48 +1,153 @@
-<h2 align="center">🤔 About me 👨‍💻</h2>
+```html
+<div align="center">
 
-<h1>Chang Yajing</h1>
+# Chang Yajing
 
-<p>
-Research student focusing on robotics and computer vision.<br />
-Research interests: Embodied AI, Computer Vision, Robotics.
-</p>
+**Undergraduate @ Fudan University · Robotics & Embodied AI**
 
-<hr>
+Interested in **Embodied AI**, **Robot Learning**, **Vision-Language-Action Models**, and **Autonomous Robotics**.
 
-<h3 align="center">🔬 Selected Projects</h3>
-
-- **[Biomimetic Robotic Fish]**: Underwater robot prototype
+</div>
 
 ---
 
-### 🧐 More About Me
+### About Me
 
-- 🔭 I’m currently studying CS at **Fudan University**
-- 🌱 I’m currently learning **AI**
+- 🎓 Undergraduate student at **Fudan University**
+- 🤖 Major in **Intelligent Science and Technology**
+- 🔬 Interested in **Embodied AI, VLA, World Models, Robot Learning, and Computer Vision**
+- 🌱 Currently exploring learning-based robotic perception, planning, and control
+- 🧠 Interested in building robots that can **perceive, reason, learn, and interact with the physical world**
 
 ---
 
-### 🛠️ Languages/Frameworks I'm good at
+### Selected Projects
+
+#### Biomimetic Underwater Robot
+
+Research project on perception, planning, and control for a biomimetic underwater robotic platform.
+
+- Multi-sensor perception with **stereo vision, IMU, UWB, and ultrasonic sensing**
+- State estimation and sensor fusion
+- 3D motion planning based on **Fast-Planner**
+- Trajectory planning with non-holonomic motion constraints
+- ROS-based robotic system integration
+
+---
+
+### Research Interests
+
+```text
+Embodied AI
+├── Vision-Language-Action Models
+├── World Models
+├── Robot Learning
+├── Reinforcement Learning
+└── Multimodal Perception
+
+Robotics
+├── Autonomous Perception
+├── Motion Planning
+├── Sensor Fusion
+└── Robot Control
+```
+
+---
+
+### Tech Stack
 
 <p align="center">
-  <code><img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"></code>
-  <code><img alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"></code>
-  <code><img alt="Markdown" title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42"></code>
-  <code><img alt="LaTeX" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="42"></code>
+  <img
+    alt="Python"
+    title="Python"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="42"
+  />
+  &nbsp;&nbsp;
+
+  <img
+    alt="C++"
+    title="C++"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    height="42"
+  />
+  &nbsp;&nbsp;
+
+  <img
+    alt="PyTorch"
+    title="PyTorch"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+    height="42"
+  />
+  &nbsp;&nbsp;
+
+  <img
+    alt="ROS"
+    title="ROS"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg"
+    height="42"
+  />
+  &nbsp;&nbsp;
+
+  <img
+    alt="Docker"
+    title="Docker"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    height="42"
+  />
+  &nbsp;&nbsp;
+
+  <img
+    alt="Linux"
+    title="Linux"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    height="42"
+  />
+  &nbsp;&nbsp;
+
+  <img
+    alt="Git"
+    title="Git"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    height="42"
+  />
+  &nbsp;&nbsp;
+
+  <img
+    alt="LaTeX"
+    title="LaTeX"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
+    height="42"
+  />
 </p>
 
 ---
 
-## 📊 Github stats
+## GitHub Stats
 
 <p align="center">
-  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Yajing7's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Yajing7&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" height="192px"/>
+    <img
+      alt="Yajing7's GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=Yajing7&show_icons=true&count_private=true&hide_border=true"
+      height="165"
+    />
   </a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Yajing7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yajing7&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" height="192px"/>
+    <img
+      alt="Yajing7's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yajing7&layout=compact&langs_count=8&hide_border=true"
+      height="165"
+    />
   </a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+
+<p align="center">
+  <sub>
+    Top languages reflect the composition of my public repositories rather than overall proficiency.
+  </sub>
+</p>
+```
+
+这版可以直接作为 `README.md` raw 内容复制进去。
