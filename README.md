@@ -1,14 +1,10 @@
-<!-- 个人资料页 README -->
-
-<h1 align="center">Hi there 👋</h1>
-
 <h2 align="center">🤔 About me 👨‍💻</h2>
 
 <h1 align="center">Chang Yajing</h1>
 
 <p align="center">
 Research student focusing on robotics and computer vision.<br />
-Research interests: Biomimetic robot, perception, control theory.
+Research interests: Embodied AI, Computer Vision,  Robotics.
 </p>
 
 <hr>
@@ -32,6 +28,7 @@ Research interests: Biomimetic robot, perception, control theory.
   <code><img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"></code>
   <code><img alt="Markdown" title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42"></code>
   <code><img alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"></code>
+  <code><img alt="LaTeX" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="42"></code>
 </p>
 
 ---
