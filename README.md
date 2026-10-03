@@ -52,74 +52,18 @@ Robotics
 ```
 
 ---
-
 ### Tech Stack
 
 <p align="center">
-  <img
-    alt="Python"
-    title="Python"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    height="42"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    alt="C++"
-    title="C++"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    height="42"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    alt="PyTorch"
-    title="PyTorch"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-    height="42"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    alt="ROS"
-    title="ROS"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg"
-    height="42"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    alt="Docker"
-    title="Docker"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-    height="42"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    alt="Linux"
-    title="Linux"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-    height="42"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    alt="Git"
-    title="Git"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    height="42"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    alt="LaTeX"
-    title="LaTeX"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
-    height="42"
-  />
+  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img alt="PyTorch" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img alt="ROS" title="ROS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="40" />
+  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img alt="LaTeX" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" />
 </p>
-
 ---
 
 ## GitHub Stats
