@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # Chang Yajing
@@ -148,6 +147,3 @@ Robotics
     Top languages reflect the composition of my public repositories rather than overall proficiency.
   </sub>
 </p>
-```
-
-这版可以直接作为 `README.md` raw 内容复制进去。
