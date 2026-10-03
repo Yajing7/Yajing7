@@ -1,3 +1,7 @@
+<a href="https://github.com/Yajing7">
+  <img src="./assets/yajing_github_welcome.gif" width="100%" alt="Yajing7 Profile GIF">
+</a>
+
 <div align="center">
 
 # Chang Yajing
