@@ -26,8 +26,8 @@ Research interests: Embodied AI, Computer Vision, Robotics.
 
 <p align="center">
   <code><img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"></code>
-  <code><img alt="Markdown" title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42"></code>
   <code><img alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"></code>
+  <code><img alt="Markdown" title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42"></code>
   <code><img alt="LaTeX" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="42"></code>
 </p>
 
