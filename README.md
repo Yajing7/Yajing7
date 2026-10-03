@@ -67,7 +67,7 @@ Robotics
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
