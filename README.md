@@ -1,10 +1,10 @@
 <h2 align="center">🤔 About me 👨‍💻</h2>
 
-<h1 align="center">Chang Yajing</h1>
+<h1>Chang Yajing</h1>
 
-<p align="center">
+<p>
 Research student focusing on robotics and computer vision.<br />
-Research interests: Embodied AI, Computer Vision,  Robotics.
+Research interests: Embodied AI, Computer Vision, Robotics.
 </p>
 
 <hr>
