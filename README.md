@@ -52,6 +52,7 @@ Robotics
 ```
 
 ---
+
 ### Tech Stack
 
 <p align="center">
@@ -64,6 +65,7 @@ Robotics
   <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img alt="LaTeX" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" />
 </p>
+
 ---
 
 ## GitHub Stats
